@@ -1,10 +1,10 @@
 package main
 
-import "qwerky/learngo/day3"
+import "qwerky/learngo/day4"
 
 func main() {
 
 	//day3.RunTests()
-	//day3.Part1()
-	day3.Part2()
+	//day4.Part1()
+	day4.Part2()
 }
